@@ -1,0 +1,11 @@
+target_Name,model,nested_cv_mae,nested_cv_std,nested_cv_r2_mean,nested_cv_r2_std,test_mae,test_r2,split_type
+tc_transfer,gpr,340.14,216.24,0.03,0.2,239.46,-0.56,chemistry_cluster
+tc_transfer,rf,325.22,210.64,-0.08,0.43,331.64,-12.55,chemistry_cluster
+tc_transfer,xgb,354.88,199.81,-0.64,1.71,255.51,-5.04,chemistry_cluster
+tc_transfer,svr,326.27,210.9,0.07,0.16,150.67,0.39,chemistry_cluster
+tc_transfer,krr,270.97,232.26,0.4,0.39,225.54,-3.99,chemistry_cluster
+tc_transfer,gpr,333.62,147.54,0.07,0.11,239.46,-0.56,phase
+tc_transfer,rf,289.87,177.3,0.21,0.43,335.78,-12.15,phase
+tc_transfer,xgb,302.8,156.51,0.26,0.28,207.29,-1.53,phase
+tc_transfer,svr,325.65,148.17,0.08,0.12,150.67,0.39,phase
+tc_transfer,krr,258.86,128.3,0.14,0.52,225.54,-3.99,phase

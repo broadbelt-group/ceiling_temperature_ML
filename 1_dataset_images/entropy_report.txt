@@ -1,0 +1,21 @@
+Total data points: 352
+
+Unique molecules: 373
+Single-occurence molecules: 311
+Multi-occurence molecules: 62
+
+Category      | Occurences
+--------------|------------
+ROP           | 143
+cationic      | 67
+cyclic        | 11
+vinyl/acrylic | 56
+ionic         | 40
+ROMP          | 35
+
+
+Monomer State | Occurences
+--------------|------------
+l             | 142
+s             | 183
+g             | 27
