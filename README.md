@@ -2,6 +2,8 @@
 
 This directory contains the main analysis pipeline for predicting thermodynamic properties (enthalpy, entropy, and ceiling temperature) using machine learning models used in the publication "Predicting Ceiling Temperature for Recyclable Polymer Design using Machine Learning".
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18174778.svg)](https://doi.org/10.5281/zenodo.18174778)
+
 ## Overview
 
 This project uses various ML models (Random Forest, SVR, XGBoost, Gaussian Process, Kernel Ridge Regression) to predict thermodynamic properties (enthalpy and entropy of polymerization and ceiling temperature) for polymer systems. The workflow is organized as a series of numbered notebooks that should be run sequentially.
